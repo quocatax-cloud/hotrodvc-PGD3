@@ -1,7 +1,7 @@
 const chat = document.getElementById("chat");
 const input = document.getElementById("input");
 
-const API_URL = "https://YOUR-WORKER.workers.dev";
+const API_URL = "https://chatbotdvc.quocatax.workers.dev/";
 
 function add(text, cls) {
   const div = document.createElement("div");
